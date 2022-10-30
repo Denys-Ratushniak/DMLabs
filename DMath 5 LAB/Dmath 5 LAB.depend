@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638008496 source:b:\codeblocks\projects\dmath 5 lab\main.cpp
+	<bits/stdc++.h>
+	<Windows.h>
+
