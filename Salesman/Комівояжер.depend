@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638702958 source:b:\codeblocks\projects\Комівояжер\main.cpp
+	<bits/stdc++.h>
+	<Windows.h>
+
